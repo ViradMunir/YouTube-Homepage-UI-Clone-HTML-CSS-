@@ -60,7 +60,7 @@ sidebar.css
 video.css
 /thumbnails
 /channel-pictures
-index.html
+youtube.html
 
 
 ---
