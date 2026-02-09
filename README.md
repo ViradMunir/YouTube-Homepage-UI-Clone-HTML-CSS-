@@ -52,6 +52,7 @@ The objective was to practice **production-style UI structuring** using only HTM
 ---
 
 ## 📂 Project Structure
+
 /icons
 /styles
 general.css
